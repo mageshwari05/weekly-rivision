@@ -1,4 +1,4 @@
-print("STUDENT RECORD SYSTEM")
+print("===STUDENT RECORD SYSTEM===")
 student = {}
 print("1. Add Student")
 print("2. Show Student")
